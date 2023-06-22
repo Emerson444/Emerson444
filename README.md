@@ -25,7 +25,7 @@
 - 🌱 atualmente estudando responsividade
 - 💬 emersonjosesilva0017@gmail.com
 - 😄 Pronouns: Ele/Dele
-<img aligh="right" alt="emerso-gif" src="https://media.tenor.com/whvC43fbblcAAAAM/neongenesisevangelion-reiayanami.gif"/>
+<img aligh="right" alt="emerso-gif" src="https://media3.giphy.com/media/MPExLVFFXMuD8WpEwn/200w.webp?cid=ecf05e47wkjp2z0p6dztb4flc7nzzddxwaxm6eue83pb4ilx&ep=v1_gifs_search&rid=200w.webp&ct=g"/>
   
 
 
