@@ -1,4 +1,4 @@
-+### Eae, me chamo Emerson👋
+ Eae, me chamo Emerson👋
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 🔭 pretedo trabalha a área de front-end
 - 🌱 atualmente estudando responsividade
