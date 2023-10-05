@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/emersom-josé-da-silva-473497278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> <br>
 
-- 🔭 pretendo trabalha na área de front-end
+- 🔭 planejo trabalha na área de front-end
 - 🌱 atualmente estudando responsividade e react
 - 💬 emersonjosesilva0017@gmail.com
 - 😄 Pronouns: Ele/Dele
